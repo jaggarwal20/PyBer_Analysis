@@ -25,21 +25,19 @@ Create a summary of the ride sharing data for January to April 2019 by the city 
 
 <a name="Results"></a>
 ## Results
-* The overall summary of the fares, total drivers, and total riders. The total rides and drivers is higher in Urban city types. 
+* The overall summary of the fares, total drivers, and total riders using the groupby function. The total rides and drivers is higher in Urban city types. 
   
-  ![alt text](Resource/ninth_nan.png)
+  ![alt text](Resource/summary_city_type.png)
   
-  
+* Create a pivot table displaying total fare by city type for each date from January to April 2019. 
+ 
+
+* Summarize the data on a weekly basis. 
 
 <a name="Summary"></a>
 ## Summary
 
-Summarize four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
- 
- 1. The passings rate for Math and Reading scores significantly increased. 
- 2. The number of students in the district decreased.
- 3. The overall passing score increased from 65% to 91%.
- 4. Thomas High School became the 2nd highest performing school right after Cabrera High School.
+
 
 <a name="Challenges"></a>
 ## Challenges
