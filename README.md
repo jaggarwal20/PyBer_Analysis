@@ -9,7 +9,6 @@
 
 - [3.0 Summary](#Summary)
 
-- [4.0 Challenges](#Challenges)
 
 <a name="Project-Overview"></a>
 ## Project Overview
@@ -50,9 +49,6 @@ Create a summary of the ride sharing data for January to April 2019 by the city 
 
 The three recommendations for the CEO are: 
 
-1. 
-
-<a name="Challenges"></a>
-## Challenges
-
-The instructions for setting up the files was very confusing and it was difficult to submit the proper items. I completed the challenge, but I do not believe the proper format is turned with the combination of the code. It could be helpful to incorporate these steps throughout rather than only providing instructions for how the assignment should be submitted at the very top. 
+1. Increase the price of fares in the urban cities since the demand is higher, compared to the other city types.  This will increase profit and also allow for the drivers to get paid more. 
+2. Reduce the number of drivers during the middle of the month as the peaks are towards the end and beginning of the month. 
+3. The total fares for rural city types is overall flat, while there are fluctuations in the urban and suburban city types.  Invest more time and money in those to city types in order to draw more demand.  
