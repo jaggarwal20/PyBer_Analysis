@@ -31,8 +31,11 @@ Create a summary of the ride sharing data for January to April 2019 by the city 
   
 * Create a pivot table displaying total fare by city type for each date from January to April 2019. 
  
+ ![alt text](Resource/pivot_table.png)
+ 
+* Summarize the data on a weekly basis by using resample().
 
-* Summarize the data on a weekly basis. 
+![alt text](Resource/pivot_table_weekly.png)
 
 <a name="Summary"></a>
 ## Summary
