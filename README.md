@@ -13,9 +13,10 @@
 <a name="Project-Overview"></a>
 ## Project Overview
 ### 1.1 Purpose
-Create a summary of the ride sharing data for January to April 2019 by the city type (urban, rurual, and city).
+Summarize the ride sharing data for January to April 2019 by city type (urban, rurual, and suburban).
 
-1. Create a line chart plotting the fares for each city type
+1. Create a pivot chart for each city type on a weekly basis
+2. Create a line chart plotting the fares for each city type
 
 ### 1.2 Resouces
 - Data Source: schools_complete.csv and students_complete.csv
