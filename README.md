@@ -40,11 +40,17 @@ Create a summary of the ride sharing data for January to April 2019 by the city 
 * Summarize the data on a weekly basis by using resample().
 
  ![alt text](Resources/pivot_table_weekly.png)
+ 
+* Plot the fares vs weekly date on a line chart. 
+
+![alt text](Resources/total_date_by_city.png)
 
 <a name="Summary"></a>
 ## Summary
 
+The three recommendations for the CEO are: 
 
+1. 
 
 <a name="Challenges"></a>
 ## Challenges
