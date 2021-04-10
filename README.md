@@ -27,15 +27,15 @@ Create a summary of the ride sharing data for January to April 2019 by the city 
 ## Results
 * The overall summary of the fares, total drivers, and total riders using the groupby function. The total rides and drivers is higher in Urban city types. 
   
-  ![alt text](Resource/summary_city_type.png)
+  ![alt text](Resources/summary_city_type.png)
   
 * Create a pivot table displaying total fare by city type for each date from January to April 2019. 
  
- ![alt text](Resource/pivot_table.png)
+ ![alt text](Resources/pivot_table.png)
  
 * Summarize the data on a weekly basis by using resample().
 
-![alt text](Resource/pivot_table_weekly.png)
+![alt text](Resources/pivot_table_weekly.png)
 
 <a name="Summary"></a>
 ## Summary
